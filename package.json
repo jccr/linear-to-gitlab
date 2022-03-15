@@ -1,0 +1,21 @@
+{
+  "name": "linear-to-gitlab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@gitbeaker/node": "^35.4.0",
+    "@linear/sdk": "^1.22.0",
+    "dotenv": "^16.0.0",
+    "string-similarity": "^4.0.4"
+  },
+  "devDependencies": {
+    "prettier": "^2.5.1"
+  }
+}
